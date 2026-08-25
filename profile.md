@@ -1,17 +1,13 @@
-Fill this in with real content — the routine reads it on every run to score job fit and draft
-proposal openings. Vague entries produce generic drafts; specifics produce good ones.
-
-## Skills
-- (e.g. Python, React, data pipelines, ...)
-
-## Hourly rate / budget expectations
-- (e.g. $60/hr, or fixed-price projects $1500+)
-
-## Portfolio highlights
-- (2-4 concrete past projects/outcomes worth referencing in proposals)
+Skills, rate, and portfolio are pulled live from my actual Upwork profile via the connector on
+every run — no need to duplicate them here. This file only holds preferences Upwork's API has
+no way of knowing.
 
 ## What to avoid
 - (e.g. skip jobs under $20/hr, skip WordPress-only jobs, skip clients with no payment verification)
 
 ## Tone
 - (e.g. direct and concise, no filler phrases like "I'd love to help")
+
+## Overrides (optional)
+- (only fill this in if something about your live Upwork profile is misleading or incomplete for
+  scoring purposes — e.g. "ignore the 'Photoshop' skill tag, I don't do design work")
